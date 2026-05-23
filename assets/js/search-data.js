@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-sampling-blog",
+          title: "Sampling blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :sparkles: :smile:',
+            },},{id: "news-i-will-be-attending-the-workshop-advances-in-mcmc-methods-at-eurandom-tu-eindhoven-sparkles-sparkles-smile",
+          title: 'I will be attending the workshop Advances in MCMC methods at Eurandom (TU...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
