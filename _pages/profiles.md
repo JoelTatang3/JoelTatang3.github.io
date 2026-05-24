@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Edinburgh, Scotland, UK</p>
+      <p>Edinburgh, UK</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -24,5 +24,5 @@ profiles:
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Edinburgh, Scotland</p>
+      <p>Edinburgh, UK</p>
 ---
