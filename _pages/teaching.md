@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description. From Cameroon to Edinburgh 
+description: Materials for courses you taught. Replace this text with your description. From Cameroon to Edinburgh by France 
 nav: true
 nav_order: 6
 ---
