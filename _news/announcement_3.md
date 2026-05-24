@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the workshop Advances in MCMC methods at Eurandom (TU Eindhoven)! :sparkles: :sparkles: :smile:
+I will be attending the workshop Advances in MCMC methods at Eurandom (TU Eindhoven)! :sparkles: :sparkles: :smile: 
