@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description. From Cameroon to Edinburgh",
+          description: "Materials for courses you taught. Replace this text with your description. From Cameroon to Edinburgh by France",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
