@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about 
+title: About 
 permalink: /
 subtitle: <a href='#'>Maxwell Institute for Mathematical Sciences, Heriot Watt University </a>. Department of Mathematics and Computer Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, Scotland. 
 
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- Tell them the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of Stochastic processes, optimization, sampling and computational statistics. My PhD supervisors are [Paul Dobson](https://sites.google.com/view/pdobson/home) for [Heriot Watt University](https://www.hw.ac.uk/) and [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/). 
+
+Tell them the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
