@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About 
+layout: about
+title: about 
 permalink: /
 subtitle: <a href='#'>Maxwell Institute for Mathematical Sciences, Heriot Watt University </a>. Department of Mathematics and Computer Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, Scotland. 
 
