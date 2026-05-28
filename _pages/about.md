@@ -29,7 +29,7 @@ latest_posts:
 
 I am a PhD student in [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of Stochastic processes, optimization, sampling and computational statistics. My PhD supervisors are [Paul Dobson](https://sites.google.com/view/pdobson/home) from [Heriot Watt University](https://www.hw.ac.uk/) and [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/). 
 
-Before undertaking my PhD studies, I did a several Masters studies at the [African Institute for Mathematical Sciences](https://aims-cameroon.org/) Cameroon and at [Universit\'{e} Paris Dauphine](https://dauphine.psl.eu/). 
+Before undertaking my PhD studies, I did a several Masters studies at the [African Institute for Mathematical Sciences (AIMS)](https://aims-cameroon.org/) in Cameroon and at [Universite Paris Dauphine](https://dauphine.psl.eu/) in France. 
 
 Tell them the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
