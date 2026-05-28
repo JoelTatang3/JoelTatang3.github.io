@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the scientific computing and differential equations (SciCADE26) at the University of Edinburgh! :sparkles:  
+I will be attending the scientific computing and differential equations conference (SciCADE26) at the University of Edinburgh! :sparkles:  
