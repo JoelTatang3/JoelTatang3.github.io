@@ -31,7 +31,7 @@ I am a PhD student in [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwel
 
 Before undertaking my PhD studies, I did a several Masters studies at the [African Institute for Mathematical Sciences (AIMS)](https://aims-cameroon.org/) in Cameroon and at [Universite Paris Dauphine](https://dauphine.psl.eu/) in France.  
 
-Tell them the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Tell them again the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
