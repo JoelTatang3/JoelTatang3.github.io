@@ -448,7 +448,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-will-be-attending-the-workshop-advances-in-mcmc-methods-at-eurandom-tu-eindhoven-sparkles-sparkles-smile",
+            },},{id: "news-i-will-be-attending-the-workshop-advances-in-mcmc-methods-at-eurandom-tu-eindhoven-sparkles",
           title: 'I will be attending the workshop Advances in MCMC methods at Eurandom (TU...',
           description: "",
           section: "News",},{id: "news-i-will-be-attending-the-siam-conference-on-optimization-at-the-university-of-edinburgh-sparkles",
