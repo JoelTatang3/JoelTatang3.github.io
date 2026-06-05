@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the Ellis Unit summer school on Probabilistic Machine Learning at the University of Cambridge! :sparkles:  
+I will be attending the Ellis Unit summer school on Probabilistic Machine Learning at the University of Cambridge where I will present a poster! :sparkles:  
