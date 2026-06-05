@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of Stochastic processes, optimization, sampling and computational statistics. My PhD supervisors are [Paul Dobson](https://sites.google.com/view/pdobson/home) from [Heriot Watt University](https://www.hw.ac.uk/) and [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/). 
+I am a PhD Candidate in [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of stochastic processes, optimization, sampling and computational statistics with applications to machine learning. My PhD supervisors are [Paul Dobson](https://sites.google.com/view/pdobson/home) from [Heriot Watt University](https://www.hw.ac.uk/) and [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/). 
 
 Before undertaking my PhD studies, I did a several Masters studies at the [African Institute for Mathematical Sciences (AIMS)](https://aims-cameroon.org/) in Cameroon and at [Universite Paris Dauphine](https://dauphine.psl.eu/) in France.  
 
