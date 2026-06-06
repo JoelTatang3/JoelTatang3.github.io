@@ -14,7 +14,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Riccarton, Edinburgh</p> 
+    <p>Riccarton, Edinburgh, EH14 4AS</p> 
     <p>Colin Mac-Laurin Building (CM G11)</p>
     <p>Edinburgh, UK</p>
 
@@ -37,4 +37,4 @@ I am a PhD Candidate in the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [
 Prior to my PhD stuies, I completed a structured Master at the [African Institute for Mathematical Sciences (AIMS)](https://aims-cameroon.org/), Cameroon, with a focus on PDEs, and an MSc at [Université Paris Dauphine](https://dauphine.psl.eu/), where I worked on optimal control of PDEs. 
 
 
-## 
+## Scholarships and Distinctions 
