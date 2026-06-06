@@ -2,8 +2,8 @@
 layout: default
 permalink: /blog/
 title: PDMPs blog
-nav: true
-nav_order: 1
+nav: false #true
+nav_order: 1 
 pagination:
   enabled: true
   collection: posts
