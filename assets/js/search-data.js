@@ -505,7 +505,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/joel-tatang", "_blank");
+          window.open("https://www.linkedin.com/in/jo%C3%ABl-tatang", "_blank");
         },
       },{
         id: 'social-rss',
@@ -519,7 +519,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=baHLT8QAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
