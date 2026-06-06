@@ -2,7 +2,12 @@
 layout: about
 title: About 
 permalink: /
-subtitle: <a href='#'>[Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) & Department of Mathematics and Computer Sciences, Heriot Watt University </a>. Heriot-Watt University, Edinburgh, EH14 4AS, Scotland. 
+subtitle: >
+  <a href='https://www.maxwell.ac.uk/'>Maxwell Institute for Mathematical Sciences</a> &
+  <a href='https://www.hw.ac.uk/schools/mathematical-computer-sciences.htm'>Department of Mathematics and Computer Sciences</a>,
+  <a href='https://www.hw.ac.uk/'>Heriot-Watt University</a>,
+  Edinburgh, EH14 4AS, Scotland.
+#subtitle: <a href='#'>Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) & Department of Mathematics and Computer Sciences, Heriot Watt University </a>. Heriot-Watt University, Edinburgh, EH14 4AS, Scotland. 
 
 profile: 
   align: right
