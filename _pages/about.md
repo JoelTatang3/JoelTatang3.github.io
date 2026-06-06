@@ -16,7 +16,7 @@ profile:
   more_info: >
     <p>Riccarton, Edinburgh, EH14 4AS</p> 
     <p>Colin MacLaurin Building(CMG11)</p>
-    <p>Edinburgh, UK</p>
+    <p>Edinburgh, UK</p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
