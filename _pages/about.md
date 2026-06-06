@@ -15,7 +15,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Riccarton, Edinburgh, EH14 4AS</p> 
-    <p>Colin Mac-Laurin Building (CM G11)</p>
+    <p>Colin MacLaurin Building(CMG11)</p>
     <p>Edinburgh, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
