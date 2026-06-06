@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
   <a href='https://www.maxwell.ac.uk/'>Maxwell Institute for Mathematical Sciences</a> &
-  <a href='https://www.hw.ac.uk/schools/mathematical-computer-sciences.htm'>Department of Mathematics and Computer Sciences</a>,
+  <a href='https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences'>Department of Mathematics and Computer Sciences</a>,
   <a href='https://www.hw.ac.uk/'>Heriot-Watt University</a>,
   Edinburgh, EH14 4AS, Scotland.
 #subtitle: <a href='#'>Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) & Department of Mathematics and Computer Sciences, Heriot Watt University </a>. Heriot-Watt University, Edinburgh, EH14 4AS, Scotland. 
@@ -14,8 +14,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p> 
-    <p>123 your address street</p>
+    <p>Riccarton, Edinburgh</p> 
+    <p>Colin Mac-Laurin Building (CM G11)</p>
     <p>Edinburgh, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -32,7 +32,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate in the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of stochastic processes, optimization, sampling and computational statistics with applications to machine learning. My PhD supervisors are [Paul Dobson](https://sites.google.com/view/pdobson/home) from [Heriot Watt University](https://www.hw.ac.uk/) and [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/). 
+I am a PhD Candidate in the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of stochastic processes, optimization, sampling and computational statistics with applications to machine learning. My PhD supervisors are Dr. [Paul Dobson](https://sites.google.com/view/pdobson/home) from [Heriot Watt University](https://www.hw.ac.uk/) and Prof. [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/).  
 
-Before undertaking my PhD studies, I obtain a several Masters studies at the [African Institute for Mathematical Sciences (AIMS)](https://aims-cameroon.org/) in Cameroon and at [Universite Paris Dauphine](https://dauphine.psl.eu/) in France.  
+Prior to my PhD stuies, I completed a structured Master at the [African Institute for Mathematical Sciences (AIMS)](https://aims-cameroon.org/), Cameroon, with a focus on PDEs, and an MSc at [Université Paris Dauphine](https://dauphine.psl.eu/), where I worked on optimal control of PDEs. 
 
+
+## 
