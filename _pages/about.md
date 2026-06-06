@@ -38,5 +38,6 @@ Prior to my PhD stuies, I completed a structured Master at the [African Institut
 
 
 ## Scholarships and Distinctions 
-2022 -- [EPSRC Funding](https://www.ukri.org/councils/epsrc/) for PhD research (By the UK government), University of Edinburgh 
-2021 -- [FSMP Scholarship](https://sciencesmaths-paris.fr/en) for Master study (By the French government), Paris Dauphine University 
+2022 - [EPSRC Funding](https://www.ukri.org/councils/epsrc/) for PhD research (By the UK government), University of Edinburgh  
+
+2021 - [FSMP Scholarship](https://sciencesmaths-paris.fr/en) for Master study (By the French government), Paris Dauphine University   
