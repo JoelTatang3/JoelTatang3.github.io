@@ -501,6 +501,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/jo%C3%ABl-tatang", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0000-7339-6841", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
