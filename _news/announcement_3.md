@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the workshop Advances in MCMC methods at Eurandom (TU Eindhoven)! :sparkles:  
+I have attended the workshop Advances in MCMC methods at Eurandom (TU Eindhoven :sparkles:)! where I have presented a poster on my work on constrained sampling with [Slides here](https://zenodo.org/records/20585525)   
