@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the SIAM conference on Optimization at The University of Edinburgh! :sparkles:   
+I have attended the SIAM conference on Optimization at The University of Edinburgh! :sparkles:   
