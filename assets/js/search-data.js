@@ -431,7 +431,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-attending-the-scientific-computing-and-differential-equations-conference-scicade26-and-a-reasearch-school-at-the-university-of-edinburgh-sparkles",
           title: 'I will be attending the scientific computing and differential equations conference (SciCADE26) and...',
           description: "",
-          section: "News",},{id: "news-i-will-be-attending-the-ellis-unit-summer-school-on-probabilistic-machine-learning-at-the-university-of-cambridge-where-i-will-present-a-poster-sparkles",
+          section: "News",},{id: "news-i-will-be-attending-the-ellis-unit-summer-school-on-probabilistic-machine-learning-at-the-university-of-cambridge-where-i-will-present-a-poster-of-my-recent-work-on-adaptive-zig-zag-with-control-variates-for-classification-and-regression-problems-in-machine-learning-sparkles",
           title: 'I will be attending the Ellis Unit summer school on Probabilistic Machine Learning...',
           description: "",
           section: "News",},{id: "projects-project-1",
