@@ -49,3 +49,5 @@ Prior to my PhD studies, I completed a structured Master at the [African Institu
 2016-2018  Best student of the Maths program, [ENS Bambili](https://httcbambili.com/) 
 
 2015-2020 [Cameroon Presidential Grant](https://www.minesup.gov.cm/index.php/2022/10/13/) for Academic Excellence (X5) 
+
+## Current and future research interests 
