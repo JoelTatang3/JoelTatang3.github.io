@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-will-be-attending-the-workshop-advances-in-mcmc-methods-at-eurandom-tu-eindhoven-sparkles",
-          title: 'I will be attending the workshop Advances in MCMC methods at Eurandom (TU...',
+            },},{id: "news-i-have-attended-the-workshop-advances-in-mcmc-methods-at-eurandom-tu-eindhoven-sparkles-where-i-have-presented-a-poster-on-my-work-on-constrained-sampling-with-slides-here",
+          title: 'I have attended the workshop Advances in MCMC methods at Eurandom (TU Eindhoven...',
           description: "",
           section: "News",},{id: "news-i-will-be-attending-the-siam-conference-on-optimization-at-the-university-of-edinburgh-sparkles",
           title: 'I will be attending the SIAM conference on Optimization at The University of...',
