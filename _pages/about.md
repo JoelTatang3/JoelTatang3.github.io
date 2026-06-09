@@ -29,7 +29,7 @@ announcements:
 latest_posts:
   enabled: false 
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts, Financial Mathematics,  Bayesian Optimisation, Uncertainty Quantification, Gaussian Processes.
 ---
 
 I am a PhD Candidate in the [MAC-MIGS CDT](https://www.mac-migs.ac.uk/) at the [Maxwell Institute for Mathematical science](https://www.maxwell.ac.uk/). My work is at the intersection of stochastic processes, optimization, sampling and computational statistics with applications to machine learning. My PhD supervisors are Dr. [Paul Dobson](https://sites.google.com/view/pdobson/home) from [Heriot Watt University](https://www.hw.ac.uk/) and Prof. [Konstantinos Zygalakis](https://webhomes.maths.ed.ac.uk/~kzygalak/) from [The University of Edinburgh](https://www.ed.ac.uk/).  
@@ -51,4 +51,5 @@ Prior to my PhD studies, I completed a structured Master at the [African Institu
 2015-2020 [Cameroon Presidential Grant](https://www.minesup.gov.cm/index.php/2022/10/13/) for Academic Excellence (X5) 
 
 ## Current and future research interests 
-Probability, Sampling, Computational Statistics, Probabilistic Machine Learning, Financial Mathematics, Inverse problems, Bayesian Optimisation, Uncertainty Quantification, MCMC, Optimisation, PDMP, Gaussian Processes. 
+Sampling, Computational Statistics, MCMC, Probability, Optimisation, PDMP, Probabilistic Machine Learning, Inverse problems. 
+ 
