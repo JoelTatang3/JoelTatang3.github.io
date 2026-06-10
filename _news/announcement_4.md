@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have attended the SIAM conference on Optimization at The University of Edinburgh! :sparkles:   
+I have attended the SIAM conference on Optimization at The University of Edinburgh during which I have help in the organization as a volunteer! :sparkles: See [Certificate](https://zenodo.org/records/20630936).    

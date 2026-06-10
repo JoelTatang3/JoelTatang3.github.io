@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the 17th international conference on Monte Carlo and Quasi-Monte Carlo in Scientific computing at The University of Edinburgh and I will give an oral presentation! :sparkles:   
+I have attended the 17th international conference on Monte Carlo and Quasi-Monte Carlo in Scientific computing at The University of Edinburgh and I have gave an oral presentation! See [Slides](https://zenodo.org/records/20630839) :sparkles:    
