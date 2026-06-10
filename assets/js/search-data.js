@@ -407,7 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-attended-the-17th-international-conference-on-monte-carlo-and-quasi-monte-carlo-in-scientific-computing-at-the-university-of-edinburgh-and-i-have-gave-an-oral-presentation-see-slides-sparkles",
           title: 'I have attended the 17th international conference on Monte Carlo and Quasi-Monte Carlo...',
           description: "",
-          section: "News",},{id: "news-i-will-be-attending-the-scientific-computing-and-differential-equations-conference-scicade26-and-a-reasearch-school-at-the-university-of-edinburgh-sparkles",
+          section: "News",},{id: "news-i-will-be-attending-the-scientific-computing-and-differential-equations-conference-scicade26-and-a-reasearch-school-at-the-international-centre-for-mathematical-sciences-icms-sparkles",
           title: 'I will be attending the scientific computing and differential equations conference (SciCADE26) and...',
           description: "",
           section: "News",},{id: "news-i-will-be-attending-the-ellis-unit-summer-school-on-probabilistic-machine-learning-at-the-university-of-cambridge-where-i-will-present-a-poster-of-my-recent-work-on-adaptive-zig-zag-with-control-variates-for-classification-and-regression-problems-in-machine-learning-sparkles",
