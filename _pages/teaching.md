@@ -7,7 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-## Mathematics for Engineer 
+## Teaching Assistant at Heriot Watt University 
 
 
-## University Mathematics 
+## Teaching Assistant at Université Paris Dauphine 
+
+
+## 
