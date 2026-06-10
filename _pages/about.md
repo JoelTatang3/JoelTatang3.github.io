@@ -51,5 +51,5 @@ Prior to my PhD studies, I completed a structured Master at the [African Institu
 2015-2020 [Cameroon Presidential Grant](https://www.minesup.gov.cm/index.php/2022/10/13/) for Academic Excellence (X5) 
 
 ## Current and future research interests 
-Sampling, Computational Statistics, MCMC, Probability, Optimisation, PDMP, Probabilistic Machine Learning, Inverse problems. 
+Sampling, Computational Statistics, MCMC, Probability, Optimisation, PDMP, Probabilistic Machine Learning, Inverse problems
  
