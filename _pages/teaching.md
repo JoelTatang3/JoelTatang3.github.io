@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Assistant at Heriot Watt University 
+# Teaching Assistant at Heriot Watt University 
 
 
-## Teaching Assistant at Université Paris Dauphine 
+# Teaching Assistant at Université Paris Dauphine 
 
 
-## Private tutor with Completude 
+# Private tutor with Completude 
 
 
-## Secondary school teacher 
+# Secondary school teacher 
