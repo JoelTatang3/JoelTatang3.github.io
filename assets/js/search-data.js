@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-events",
           title: "Events",
-          description: "Events and workshops I have attended",
+          description: "Events, workshops and conferences I have attended (with talks given)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";
