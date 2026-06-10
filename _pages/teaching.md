@@ -13,4 +13,7 @@ nav_order: 6
 ## Teaching Assistant at Université Paris Dauphine 
 
 
-## 
+## Private tutor with Completude 
+
+
+## Secondary school teacher 
