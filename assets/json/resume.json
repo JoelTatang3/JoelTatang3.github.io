@@ -1,11 +1,11 @@
 {
-  "basics": {
+  "basics": {    
     "name": "Joel Tatang Demano",
     "label": "Applied Mathematician",
     "image": "",
     "email": "joeltatang6@gmail.com",
     "url": "https://joeltatang3.github.io",
-    "Language": "English,French",
+    "Language": "English & French (fluent), Spanish (Very basic), Ngiemboon (native)",
     "location": {
       "address": "Riccarton, Edinburgh",
       "postalCode": "EH14 4AS",
@@ -13,7 +13,7 @@
       "countryCode": "GB",
       "region": "Scotland"
     }
-  },
+  }, 
 
   "work": [
     {
@@ -33,7 +33,7 @@
       "url": "https://siam-ima.maxwell.ac.uk/members",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Co-organize seminars, workshops, and social events for the applied mathematics community in Edinburgh, fostering exchange between postgraduate students and researchers across the Maxwell Institute.",
+      "summary": "Co-organize seminars, workshops, and social events for the applied mathematics community in Edinburgh, fostering exchange between postgraduate students and researchers across the Maxwell Institute and beyond.",
       "highlights": []
     },
     {
@@ -67,7 +67,7 @@
       "studyType": "PhD",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": ["Probability and Statistics", "Optimization", "Numerical Analysis"]
+      "courses": ["Probability and Computational Statistics", "Optimization", "Numerical Analysis"]
     },
     {
       "institution": "AIMS Cameroon, Limbe, Cameroon",
@@ -100,8 +100,8 @@
     {
       "title": "Other Scholarships",
       "date": "2020-2026",
-      "awarder": "AIMS Cameroon (Cameroon), FSMP (France), EPSRC (UK), ICTP (Italy)",
-      "summary": "The different scholarships were awarded to support the pursuit of a MSc and PhD degrees in applied mathematics."
+      "awarder": "AIMS Cameroon (Cameroon, 2020-2021), FSMP (France, 2021-2022), EPSRC (UK, 2022-2026), ICTP (Italy, selected)",
+      "summary": "The different scholarships were awarded to support the pursuit of MSc and PhD degrees in applied mathematics."
     }
   ],
 
@@ -122,7 +122,7 @@
   "references": [
     {
       "name": "Prof. Konstantinos Zygalakis",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-thumbtack",
       "reference": "University of Edinburgh, k.zygalakis@ed.ac.uk"
     },
     {
