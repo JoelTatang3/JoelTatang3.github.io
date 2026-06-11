@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have attended the workshop Advances in MCMC methods at Eurandom (TU Eindhoven :sparkles:)! where I have presented a poster on my work on constrained sampling, see [Poster here](https://zenodo.org/records/20585525)   
+I have attended the workshop Advances in MCMC methods at [Eurandom](https://www.eurandom.tue.nl/) (TU Eindhoven :sparkles:)! where I have presented a poster on my work on constrained sampling, see [Poster here](https://zenodo.org/records/20585525)   
