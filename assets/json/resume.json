@@ -1,17 +1,16 @@
 {
   "basics": {
     "name": "Joel Tatang Demano",
-    "label": "Scientist",
+    "label": "Applied Mathematician",
     "image": "",
     "email": "joeltatang6@gmail.com",
-    "url": "https://joeltatang3.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://joeltatang3.github.io",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Riccarton, Edinburgh",
+      "postalCode": "EH14 4AS",
+      "city": "Edinburgh",
+      "countryCode": "GB",
+      "region": "Scotland"
     },
     
     "profiles": [
