@@ -8,8 +8,6 @@ description: Events, workshops and conferences I have attended (with talks given
 ---  
 
 
-## Events, Workshops and Conferences 
-
 # 2026
 
 - AI Summit 2026 — London, UK

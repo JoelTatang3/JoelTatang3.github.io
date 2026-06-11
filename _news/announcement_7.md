@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the Ellis Unit summer school on Probabilistic Machine Learning at the University of Cambridge where I will present a poster of my recent work on Adaptive Zig-Zag with control variates for classification and regression problems in machine learning! :sparkles:  
+I will be attending the [Ellis Unit summer school](https://www.ellis.eng.cam.ac.uk/summer-school/) on Probabilistic Machine Learning at the University of Cambridge where I will present a poster of my ongoing work on Adaptive Zig-Zag with control variates for classification and regression problems in machine learning! :sparkles:  
