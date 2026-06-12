@@ -24,4 +24,4 @@ nav_order: 6
 # Octobre 2022-Juin 2024 
 
 ## Secondary school teacher 
-
+# 2018-2021 Lycee Classique de Dschang, GTTC Buea 
