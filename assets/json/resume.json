@@ -22,7 +22,15 @@
       "startDate": "2022-09-01",
       "endDate": "Present",
       "summary": "On the connection between sampling and optimization:Unbiased PDMC based methods.",
-      "highlights": ["Sampling,MCMC,PDMP,Optimization,Variance reduction"]
+      "highlights": ["Sampling, MCMC, PDMP, Optimization, Variance reduction in MCMC"]
+    },
+    {
+      "name": "School of Engineering, University of Edinburgh",
+      "position": "Vice-President in Scientific Computing",
+      "startDate": "2025-06-01",
+      "endDate": "2025-11-30",
+      "summary": "On the connection between sampling and optimization:Unbiased PDMC based methods.",
+      "highlights": ["Sampling, MCMC, PDMP, Optimization, Variance reduction in MCMC"]
     }
   ],
   "volunteer": [
