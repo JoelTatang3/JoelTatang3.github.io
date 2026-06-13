@@ -5,7 +5,7 @@
     "image": "",
     "email": "joeltatang6@gmail.com",
     "url": "https://joeltatang3.github.io",
-    "Language": "English & French (fluent), Spanish (Very basic), Ngiemboon (native)",
+    "Languages": "English & French (fluent), Spanish (Very basic), Ngiemboon (native)",
     "location": {
       "address": "Riccarton, Edinburgh",
       "postalCode": "EH14 4AS",
@@ -26,11 +26,11 @@
     },
     {
       "name": "School of Engineering, University of Edinburgh",
-      "position": "Vice-President in Scientific Computing",
+      "position": "Research Assistant in Scientific Computing",
       "startDate": "2025-06-01",
       "endDate": "2025-11-30",
-      "summary": "On the connection between sampling and optimization:Unbiased PDMC based methods.",
-      "highlights": ["Sampling, MCMC, PDMP, Optimization, Variance reduction in MCMC"]
+      "summary": "Randomized sparsified Richardson algorithms for wave propagation problems.",
+      "highlights": ["Large linear systems, Randomized numerical linear algebra, Wave propagation problems."]
     }
   ],
   "volunteer": [
