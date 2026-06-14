@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Assistant at Heriot Watt University 
+### Teaching Assistant at Heriot Watt University 
 # Winter 2023:
 # Fall 2024: 
 # Summer 2024: 
