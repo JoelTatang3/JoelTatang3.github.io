@@ -47,7 +47,7 @@ nav_order: 6
 
 - 2021-2022 
 
-<span style="font-size: 20px;">Probability</span> undergraduate (Level 2) 
+<span style="font-size: 20px;">Probability</span>, undergraduate (Level 2) 
 
 
 ## Private tutor with Completude
@@ -58,8 +58,8 @@ nav_order: 6
 
 - 2018-2021
 
-<span style="font-size: 20px;">Lycee Classique de Dschang</span>  
+<span style="font-size: 20px;">Lycee Classique de Dschang</span>, Mathematics 
 
-<span style="font-size: 20px;">Government Teacher Training College, Buea</span> 
+<span style="font-size: 20px;">Government Teacher Training College, Buea</span> (Mathematics) 
 
 
