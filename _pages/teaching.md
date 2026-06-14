@@ -7,18 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-### Teaching Assistant at Heriot Watt University 
-# Winter 2023:
-# Fall 2024: 
-# Summer 2024: 
-# Winter 2024:
-# Fall 2025: 
-# Summer 2025: 
-# Winter 2025:
-# Fall 2026:  
+## Teaching Assistant at Heriot Watt University
+- 2025-2026
+<span style="font-size: 20px;">F17XB:</span> Mathematics for Engineers 2, undergraduate
+<span style="font-size: 20px;">[MathsGym](https://mathsgym.hw.ac.uk/):</span> Mathematics for Engineers 2, All levels  
 
 ## Teaching Assistant at Université Paris Dauphine 
-# October 2022- April 2023 
+
 
 ## Private tutor with Completude 
 # Octobre 2022-Juin 2024 
