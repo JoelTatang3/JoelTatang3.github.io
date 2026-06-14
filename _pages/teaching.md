@@ -8,9 +8,22 @@ nav_order: 6
 ---
 
 ## Teaching Assistant at Heriot Watt University
-- 2025-2026
-<span style="font-size: 20px;">F17XB:</span> Mathematics for Engineers 2, undergraduate
+- 2025-2026 
+
+<span style="font-size: 20px;">F17XB:</span> Mathematics for Engineers 2, undergraduate 
+
 <span style="font-size: 20px;">[MathsGym](https://mathsgym.hw.ac.uk/):</span> Mathematics for Engineers 2, All levels  
+
+- 2024-2025 
+
+<span style="font-size: 20px;">F18NA:</span> Numerical Analysis A, undergraduate
+
+<span style="font-size: 20px;">F17XC:</span> Mathematics for Engineers 3, Postgraduate  
+
+<span style="font-size: 20px;">F17CA:</span> Calculus A, undergraduate   
+
+<span style="font-size: 20px;">F17XC:</span> Mathematics for Engineers 3, Postgraduate    
+
 
 ## Teaching Assistant at Université Paris Dauphine 
 
