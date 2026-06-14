@@ -16,7 +16,7 @@ nav_order: 6
 
 <span style="font-size: 20px;">F17XB:</span> Mathematics for Engineers 2, undergraduate 
 
-<span style="font-size: 20px;">[MathsGym](https://mathsgym.hw.ac.uk/):</span> Mathematics for Engineers 2, All levels  
+<span style="font-size: 20px;">[MathsGym](https://mathsgym.hw.ac.uk/)</span>, All levels  
 
 - 2024-2025 
 
@@ -50,7 +50,7 @@ nav_order: 6
 <span style="font-size: 20px;">Probability</span> undergraduate (Level 2) 
 
 
-## Private tutor with [Completude]https://www.completude.com/)  
+## Private tutor with Completude
 
 - 2021-2022 Offering private courses to Secondary school students in Paris. 
 
