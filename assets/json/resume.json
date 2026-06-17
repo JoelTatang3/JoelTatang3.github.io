@@ -78,11 +78,11 @@
 
   "education": [
     {
-      "institution": "University of Edinburgh, Edinburgh, UK",
+      "institution": "Maxwell Institute, Edinburgh, UK",
       "location": "Edinburgh, UK",
-      "url": "https://www.ed.ac.uk/",
+      "url": "https://www.maxwell.ac.uk/",
       "area": "Applied Mathematics",
-      "studyType": "PhD",
+      "studyType": "PhD (Ongoing)",
       "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": ["Probability and Computational Statistics", "Optimization", "Numerical Analysis"]
