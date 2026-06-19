@@ -57,6 +57,8 @@ description: Events, workshops and conferences I have attended (with talks given
 
 # 2022 
 
+09 Dec: Oral presentation for MAC-MIGS first year project on directed and undirected graph, The Bayes Centre, Edinburgh, UK 
+
 # 2021 
 
 
